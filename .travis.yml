@@ -6,5 +6,6 @@ language: c
 
 script: 
     - gcc numbers.c -o numbers.x
+    - ./numbers.x
 
 compilier: gcc
