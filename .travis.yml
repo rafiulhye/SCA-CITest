@@ -3,6 +3,5 @@ language: c
 compiler:
   - gcc
 script:
-  -gcc numbers.c -o numbers
-  -./numbers
+  - make test
 
