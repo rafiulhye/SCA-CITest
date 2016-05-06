@@ -26,4 +26,4 @@ addons:
     notification_email: rafiul.hye@bjitgroup.com
     build_command_prepend: "<Your build preprocessing command here>"
     build_command:   "<Your build command here>"
-    branch_pattern: coverity_scan
+    branch_pattern: master
